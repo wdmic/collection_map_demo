@@ -1,0 +1,5 @@
+# collection_map_demo
+java集合框架的demo
+通过实现一个学生选课的demo了解java集合框架知识点
+List、Set、Map的增删改查
+Collections工具类的sort方法以及comparable接口和comparator接口
